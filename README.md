@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
