@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0450-delete-node-in-a-bst](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 ## Hash Table
