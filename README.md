@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0372-super-pow](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0372-super-pow) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Array
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0372-super-pow](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0372-super-pow) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
