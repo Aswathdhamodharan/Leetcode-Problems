@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
+| [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Database
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -81,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
