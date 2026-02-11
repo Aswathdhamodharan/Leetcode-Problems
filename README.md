@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
