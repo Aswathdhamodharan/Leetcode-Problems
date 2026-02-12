@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3713-longest-balanced-substring-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Database
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2942-find-words-containing-character](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
+| [3713-longest-balanced-substring-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
