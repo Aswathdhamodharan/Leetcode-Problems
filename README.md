@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3379-transformed-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
