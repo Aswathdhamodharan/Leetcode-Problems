@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3379-transformed-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -125,9 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/1025-divisor-game) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/1025-divisor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
