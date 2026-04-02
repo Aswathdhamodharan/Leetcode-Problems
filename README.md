@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0372-super-pow) |
 | [1025-divisor-game](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2544-alternating-digit-sum](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/main/LeetCode/Easy/2544-alternating-digit-sum/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
