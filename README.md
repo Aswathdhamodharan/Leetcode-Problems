@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3379-transformed-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3701-compute-alternating-sum](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 ## Dynamic Programming
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3674-minimum-operations-to-equalize-array) |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 <!---LeetCode Topics End-->
