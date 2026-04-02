@@ -4,12 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0035-search-insert-position) |
@@ -18,17 +18,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0292-nim-game](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0292-nim-game) |
@@ -38,8 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -51,17 +51,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3701-compute-alternating-sum](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0182-duplicate-emails) |
@@ -69,71 +70,72 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0197-rising-temperature) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2942-find-words-containing-character](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3713-longest-balanced-substring-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0372-super-pow](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0372-super-pow) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3379-transformed-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3379-transformed-array) |
+| [3701-compute-alternating-sum](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1025-divisor-game](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/1025-divisor-game) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/1025-divisor-game) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Aswathdhamodharan/Leetcode-Problems/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
